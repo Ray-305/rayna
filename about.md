@@ -5,7 +5,7 @@ permalink: /about/
 sidebar_link: true
 ---
 
-My name is Laura Tebben and I am a backend developer at IBM. I work on IBM Cloud's authentication service, App ID. App ID is an easy-to-use service that allows developers to quickly add authentication to their applications without having to worry about coding or security on their end. 
+My name is Namrata Ray and I am a backend developer at IBM. I work on IBM Cloud's authentication service, App ID. App ID is an easy-to-use service that allows developers to quickly add authentication to their applications without having to worry about coding or security on their end. 
 
 I love coding, cats, fishkeeping, traveling, and spending time with friends. In my free time I am team captain of a social volleyball team, and I like to work on personal programming projects. You can see my work on my github page: [github.com/ltebben](https://github.com/ltebben).
 
