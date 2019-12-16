@@ -5,4 +5,4 @@ permalink: /resume/
 sidebar_link: true
 ---
 
-<iframe src="https://onedrive.live.com/embed?cid=E3D97A8E0D52CA34&resid=E3D97A8E0D52CA34%213760&authkey=ALopzu5tgxjaXJA&em=2" width="700" height="900" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://emailwsu-my.sharepoint.com/:b:/r/personal/namrata_ray_wsu_edu/Documents/Ray_Prof%20Resume.pdf?csf=1&e=3mm4h1" width="700" height="900" frameborder="0" scrolling="no"></iframe>
