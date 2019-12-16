@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Home
+title: Hi there! :) 
 ---
 ![Me in the Smokey Mountains](me.jpg "ME")
 
