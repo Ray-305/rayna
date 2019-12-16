@@ -24,8 +24,8 @@ Paper Accepted for Presentation at the forthcoming conference of International S
 
 ## Methods
 
-* Advanced Regression Techniques
-* Survival Analysis
-* Network Analysis
-* Survey Statistics
+* Advanced Statistical Techniques: *ANOVA, Multiple Regression, LASSO, Ridge, Factor Analysis, HLM, PCA, Multidimensional Scaling, Cluster Analysis*
+* Survival Analysis: *Cox PH Model, Multivariate Frailty Models, Accelerated Failure Time Models, Frailty Models with Bayesian Priors*
+* Network Analysis: *Egocentric Networks, Online Social Networks,*
+* Sampling and Survey Design
 
