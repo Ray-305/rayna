@@ -6,12 +6,12 @@ sidebar_link: true
 ---
 
 ## Graduate Teaching Assistant
-#### Washington State University (Aug. 2017 - Aug. 2018)
+#### Washington State University (Aug. 2017 - Aug. 2019)
 
 
 
 ## Network Science Fellow
-#### Visible Network Labs (Jan. 2015 - May 2017)
+#### Visible Network Labs (May. 2018 - Aug 2018)
 
 
 
