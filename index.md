@@ -5,8 +5,8 @@
 layout: page
 title: Home
 ---
-![Me in the Smokey Mountains](me.jpg "ME")
+!(me.jpg "ME")
 
-My name is Laura Tebben. I a backend developer at IBM on the IBM Cloud Security Services team.
+I am Namrata. I am a Ph.D. candidate in Sociology and a M.S. student in Statistics at Washington State University.
 Check out my <a href="./about">about page</a> for more information about me.
    
