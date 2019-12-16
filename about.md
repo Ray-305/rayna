@@ -12,6 +12,7 @@ Before starting my doctoral studies at Washington State University, I received a
 ## Research Interests
 
 * Social Networks
+* Computational Social Science
 * Stratification
 * Poverty 
 * Education
