@@ -5,7 +5,7 @@
 layout: page
 title: Hi there! 
 ---
-![Me in the Smokey Mountains](me.jpg "ME")
+![Me in the Smokey Mountains](me.jpg =200x "ME")
 
 
 I am Namrata. I am a Ph.D. candidate in Sociology and a M.S. student in Statistics at Washington State University.
