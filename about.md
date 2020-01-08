@@ -9,6 +9,7 @@ My name is Namrata Ray. I am pursuing my Ph.D. in Sociology and M.S. in Statisti
 
 Before starting my doctoral studies at Washington State University, I received a B.S. in Economics from Presidency College (India) and a M.S. in Demography from International Institute for Population Sciences (India).
 
+
 ## Research Interests
 
 * Social Networks
@@ -17,3 +18,5 @@ Before starting my doctoral studies at Washington State University, I received a
 * Poverty 
 * Education
 * Health
+
+
