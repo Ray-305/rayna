@@ -1,5 +1,6 @@
 ---
 layout: category
-title: Data Science Projects
-category: Data Science Projects
+title: Data Science Experience
+category: Data Science Experience
 ---
+
