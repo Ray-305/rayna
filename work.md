@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work History
+title: Experience
 permalink: /work/
 sidebar_link: true
 ---
