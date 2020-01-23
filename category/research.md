@@ -19,6 +19,7 @@ Paper Accepted for Presentation at the forthcoming conference of International S
 * Python
 * Stata
 * SQL
+* SPSS
 * VBA
 
 
