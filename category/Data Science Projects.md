@@ -19,7 +19,7 @@ APTOS 2019 Blindness Detection Competition| Top 17 %
 
 ## Data Science/Analytics Courses 
 
-* Advanced Google Analytics Certification
+* [Advanced Google Analytics Certification](https://drive.google.com/file/d/11LvMQzYV2mTj5P2ZDMYm05nAnavBMRUm/view?usp=sharing)
 * Google Analytics Individual Qualification
 * R Programmer Track by DataCamp
 * Certified Data Scientist [R] by DataCamp
