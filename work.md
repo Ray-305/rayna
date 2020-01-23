@@ -4,7 +4,7 @@ title: Experience
 permalink: /work/
 sidebar_link: true
 ---
-* ## Survey Design Clinic Consultant
+* ## Survey Design Consultant
     * #### [Social and Economic Sciences Research Center](https://sesrc.wsu.edu/) at WSU (Jan 2020-present) 
 
 My work as a survey design consultant includes providing guidance on every step of a survey project, from project management to questionnaire design, survey administration, data analysis and reporting. 
