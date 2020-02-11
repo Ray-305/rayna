@@ -31,8 +31,9 @@ Before starting my doctoral studies at Washington State University, I received a
 ## Methods
 
 * Advanced Statistical Techniques: *ANOVA, Multiple Regression, Bootstrapping, LASSO, Ridge, Factor Analysis, HLM, PCA, Multidimensional Scaling, Cluster Analysis*
+* Machine Learning Techniques: *Naïve Bayes Classifier, K Means Clustering, Support Vector Machine, Random Forests, Decision Trees,  Nearest Neighbours*
 * Sampling Techniques and Survey Design
-* Survival Analysis: *Cox PH Model, Multivariate Frailty Models, Accelerated Failure Time Models, Frailty Models with Bayesian Priors*
-* Network Analysis: *Egocentric Networks, Online Social Networks,*
+* Survival Analysis: *Proportional Hazard Model, Multivariate Frailty Models, Accelerated Failure Time Models, Frailty Models with Bayesian Priors*
+* Network Analysis: *Egocentric Networks, Online Social Networks*
 
 
