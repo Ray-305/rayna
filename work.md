@@ -18,14 +18,20 @@ sidebar_link: true
 
 ## Survey Design Consultant 
 <ul>
-<li><p>[Social and Economic Sciences Research Center](https://sesrc.wsu.edu/) at Washington State University</p></li>
+<li><p>Social and Economic Sciences Research Center at Washington State University</p></li>
 <li><p>Jan 2020-Present</p></li>
 </ul>
 
+<details>
+           <summary>Link</summary>
+           <a href="https://sesrc.wsu.edu/"></a> 
+         </details>
+
 My work as a survey design consultant includes providing guidance on every step of a survey project, from project management to questionnaire design, survey administration, data analysis and reporting. 
 
-## Network Science Fellow- [Visible Network Labs](https://visiblenetworklabs.com/network-science-fellowship/) 
+## Network Science Fellow
 <ul>
+<li><p>Visible Network Labs</p></li>
 <li><p>May. 2018 - Aug 2018</p></li>
 </ul>
 
