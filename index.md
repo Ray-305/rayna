@@ -5,9 +5,8 @@
 layout: page
 title: Hi there! 
 ---
-#![](me.jpg)
 
-<img src="me.jpg" alt="me" width="400"/>
+<img src="me.jpg" alt="me" width="500"/>
 
 
 I am Namrata. I am a Ph.D. candidate in Sociology and an M.S. student in Statistics at Washington State University.
