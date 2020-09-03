@@ -5,7 +5,7 @@
 layout: page
 title: Hi there! 
 ---
-![](me.jpg "ME")
+![](me.jpg "ME" =100x20)
 
 
 I am Namrata. I am a Ph.D. candidate in Sociology and an M.S. student in Statistics at Washington State University.
