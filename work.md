@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Work Experience
 permalink: /work/
 sidebar_link: true
