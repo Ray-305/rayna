@@ -11,4 +11,9 @@ title: Hi there!
 
 I am Namrata. I am a Ph.D. candidate in Sociology and an M.S. student in Statistics at Washington State University.
 Check out my <a href="./about">about page</a> for more information about me.
+
    
+## MEDIA MENTIONS
+
+### NFL BIG DATA BOWL FINALIST 
+<a href="https://operations.nfl.com/updates/the-game/2020-big-data-bowl-results/">link page</a>
