@@ -17,9 +17,15 @@ Check out my <a href="./about">about page</a> for more information about me.
 
 ### NFL BIG DATA BOWL FINALIST 
 
-<p float="left">
-<a href="https://operations.nfl.com/updates/the-game/2020-big-data-bowl-results/" rel="NFL"><img src="nfl.jpg" alt="nfl" width="300" height="230" hspace="20/</a>
-<a href="https://news.wsu.edu/2020/02/24/wsu-students-named-finalists-nfl-data-competition/" rel="WSU News"><img src="wsu1.PNG" alt="nfl1" width="300" hspace="20"/></a>
-<a href="https://cas.wsu.edu/2020/02/24/wsu-students-named-finalists-in-nfl-data-competition/" rel="CAS WSU News"><img src="wsu2.PNG" alt="nfl2" width="800"/></a>
-</p>
-
+<table>
+  <tr>
+    <td><b>Presentation at the NFL Big Data Bowl</b></td>
+     <td><b>WSU Insider News</b></td>
+   </tr>
+  <tr>
+    <td valign="top"><href="https://operations.nfl.com/updates/the-game/2020-big-data-bowl-results/" rel="NFL"><img src="nfl.jpg" width="300"></td>
+    <td valign="top"><href="https://news.wsu.edu/2020/02/24/wsu-students-named-finalists-nfl-data-competition/" rel="WSU News"><img src="wsu1.PNG" width="300"></td>
+  </tr>
+ </table>
+ 
+ <a href="https://cas.wsu.edu/2020/02/24/wsu-students-named-finalists-in-nfl-data-competition/" rel="CAS WSU News"><img src="wsu2.PNG" alt="nfl2" width="800"/></a>
