@@ -23,8 +23,8 @@ Check out my <a href="./about">about page</a> for more information about me.
      <td><b>WSU Insider News</b></td>
    </tr>
   <tr>
-    <td valign="top"><href="https://operations.nfl.com/updates/the-game/2020-big-data-bowl-results/"><img src="nfl.jpg" width="300"></td>
-    <td valign="top"><href="https://news.wsu.edu/2020/02/24/wsu-students-named-finalists-nfl-data-competition/"><img src="wsu1.PNG" width="300"></td>
+    <td valign="top"> <a href="https://operations.nfl.com/updates/the-game/2020-big-data-bowl-results/"> <img src="nfl.jpg" width="300"> </a> </td>
+    <td valign="top"> <a href="https://news.wsu.edu/2020/02/24/wsu-students-named-finalists-nfl-data-competition/"> <img src="wsu1.PNG" width="300"> </a> </td>
   </tr>
  </table>
  
