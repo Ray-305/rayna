@@ -21,5 +21,5 @@ Check out my <a href="./about">about page</a> for more information about me.
 
 <a href="https://news.wsu.edu/2020/02/24/wsu-students-named-finalists-nfl-data-competition/" rel="WSU News"><img src="wsu1.PNG" alt="nfl1" width="300"/></a>
 
-<a href="https://cas.wsu.edu/2020/02/24/wsu-students-named-finalists-in-nfl-data-competition/" rel="CAS WSU News"><img src="wsu2.PNG" alt="nfl2" width="500"/></a>
+<a href="https://cas.wsu.edu/2020/02/24/wsu-students-named-finalists-in-nfl-data-competition/" rel="CAS WSU News"><img src="wsu2.PNG" alt="nfl2" width="800"/></a>
 
