@@ -19,5 +19,10 @@ Check out my <a href="./about">about page</a> for more information about me.
 
 <a href="https://operations.nfl.com/updates/the-game/2020-big-data-bowl-results/" rel="NFL Football Operations"><img src="nfl.jpg" alt="nfl" width="300"/></a>
 
+<img src="nfl.jpg"
+     alt="NFL talk" width="300"
+     style="float: left; margin-right: 10px;" />
 
 ## <a href="https://news.wsu.edu/2020/02/24/wsu-students-named-finalists-nfl-data-competition/">WSU News</a>
+
+
